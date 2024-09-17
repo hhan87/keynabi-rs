@@ -1,8 +1,7 @@
 [package]
-name = "kinabi-rs"
+name = "keynabi-rs"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-crossterm = "0.26"
 termion = "2.0"
